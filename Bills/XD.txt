@@ -1,0 +1,6 @@
+Bil breakdown 
+Food1:                    ...$34.4 
+food2:                    ...$34.2 
+tip:                      ... $9.1 
+total:                    ... $77.70 
+	

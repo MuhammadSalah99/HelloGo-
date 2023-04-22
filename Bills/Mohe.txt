@@ -1,0 +1,7 @@
+Bil breakdown 
+water:                    ...$9 
+pie:                      ...$3.44 
+coffe:                    ...$4.55 
+tip:                      ... $5 
+total:                    ... $21.99 
+	
